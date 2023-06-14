@@ -6,7 +6,7 @@ function linearSearch(arr, target) {
     }
     return -1; // Return -1 if the target element is not found
   }
-  
+  ur
   // Example usage
   const array = [5, 2, 8, 4, 9, 1];
   const targetElement = 8;
